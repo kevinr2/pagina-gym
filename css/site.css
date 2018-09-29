@@ -1,0 +1,29 @@
+h1 {
+  font-size:75px;
+  line-height:1.5;
+  color: #bebebe;
+  font-weight:   100;
+  position: static;
+}
+
+
+
+.section--purple {
+  background-color: #9b59b6;
+}
+
+.section--blue {
+  background-color: #3498db;
+}
+
+.section--green {
+  background-color: #2ecc71;
+}
+
+#main {
+  text-align: center;
+}
+
+#more {
+  margin: 20px auto 48px;
+}
