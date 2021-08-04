@@ -99,6 +99,17 @@ a:focus{
 	transition:0.8s;
 
 }
+.btn-adsi1{
+	margin-right: 15px;
+	border: 2px solid #fc7323;
+	padding: 3px 5px;
+	border-radius:4px;
+	background: transparent;
+	color: #fc7323;
+	text-decoration:none;
+	transition:0.8s;
+
+}
 .btn-adsi:focus{
 	color::#fc7323;
 }
